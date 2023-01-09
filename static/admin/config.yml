@@ -1,6 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
   branch: main
+  repo: gate3/weedle-docs
 
 # These lines should *not* be indented
 media_folder: 'static/img' # Media files will be stored in the repo under static/images/uploads
